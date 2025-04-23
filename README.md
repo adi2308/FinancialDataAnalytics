@@ -29,6 +29,17 @@ This course consists of both lectures and accompanying tutorial sessions. The sc
 
 **Lectures and tutorials start as scheduled cum tempore ($t + 15$ minutes)!**
 
+## Important links
+
+* [Course repository](https://github.com/cafawo/FinancialDataAnalytics)
+* [Stud.IP page](https://studip.uni-halle.de/dispatch.php/course/details?sem_id=5a9defd4ce9b514471199574c12ee710&again=yes)
+* [Support (Q&A)](https://github.com/cafawo/FinancialDataAnalytics/discussions)
+
+* Homework and case submission:
+  * [01_setup](https://classroom.github.com/a/xNnDzJ6-) [Due Apr 16, 2025, 08:00 UTC]
+  * [02_python](https://classroom.github.com/a/8wg20wgb) [Due Apr 23, 2025, 08:00 UTC]
+  * [03_montecarlo](https://classroom.github.com/a/nNUaPe5P) [Due Apr 30, 2025, 08:00 UTC]
+
 ## Prerequisites
 
 * Strong interest and pre-knowledge in financial economics
@@ -40,16 +51,6 @@ This course consists of both lectures and accompanying tutorial sessions. The sc
       * ... whatever works for you
     * Git: https://git-scm.com/
     * GitHub: https://skills.github.com/
-
-## Important links
-
-* [Course repository](https://github.com/cafawo/FinancialDataAnalytics)
-* [Stud.IP page](https://studip.uni-halle.de/dispatch.php/course/details?sem_id=5a9defd4ce9b514471199574c12ee710&again=yes)
-* [Support (Q&A)](https://github.com/cafawo/FinancialDataAnalytics/discussions)
-
-* Homework/case submission:
-  * [01_setup](https://classroom.github.com/a/xNnDzJ6-)
-  * [02_python](https://classroom.github.com/a/8wg20wgb)
 
 
 ## Materials
